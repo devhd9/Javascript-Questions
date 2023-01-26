@@ -1,0 +1,2 @@
+1. What is the difference between parameters and arguments ?
+-> Parameters are the list of variables we define in the parantheses of function definition. Whereas arguments are the real values passed with function call.
