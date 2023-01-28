@@ -9,3 +9,12 @@ function printSum(num1, num2) {
 }
 printSum(2, 3); // values 2 and 3 are arguments.
 ```
+
+**2. List different javascript engines.**
+
+**Ans:**
+
+- V8 (by Google Chrome)
+- SpiderMonkey (by Mozilla Firefox)
+- Chakra (by Microsoft Edge)
+- Javascript core webkit (by Apple Safari)
